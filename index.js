@@ -181,9 +181,10 @@ function a(){
 	 )
 	 })(ids);
      }
+	$(".cssload-jumping").fadeOut(300);
 }
 
-$(".cssload-jumping").fadeOut(300);
+
 
 
 function sorter(a, b) {
